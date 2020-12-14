@@ -1,0 +1,24 @@
+{
+  "name": "vue-chosen",
+  "version": "1.0.0",
+  "description": "Chosen component for Vue",
+  "main": "vue-chosen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/btimby/vue-chosen.git"
+  },
+  "keywords": [
+    "Chosen",
+    "jquery",
+    "Vue"
+  ],
+  "author": "eliurkis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/btimby/vue-chosen/issues"
+  },
+  "homepage": "https://github.com/btimby/vue-chosen#readme"
+}
