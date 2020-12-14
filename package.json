@@ -2,7 +2,7 @@
   "name": "vue-chosen",
   "version": "1.0.0",
   "description": "Chosen component for Vue",
-  "main": "vue-chosen.js",
+  "main": "vue-chosen.vue",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
